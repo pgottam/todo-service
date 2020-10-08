@@ -1,0 +1,7 @@
+applications:
+- framework: spring
+  guid: c404f6da-8285-4a74-b211-e29209b77892
+  language: java
+  name: todo-service
+  service: [
+    ]
